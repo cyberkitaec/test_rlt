@@ -1,5 +1,3 @@
-# test_rlt
-RLT test task
 
 <h1>Описание задания</h1>
 
